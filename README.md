@@ -2,8 +2,8 @@ olá!
 meu nome é Ricardo.
 tenho 46 anos.
 estou começando agora na programação.
-não sei mexer direito no git hub.
-aceito dicas.
+Não sei mexer direito no git hub.
+preciso de  dicas.
 obrigado e bons estudos.
 
 <!---
