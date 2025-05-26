@@ -28,6 +28,8 @@ do {
     Rainha++;
  } while (Rainha < 16);
 
+ return 0;
+
 
 }
      
